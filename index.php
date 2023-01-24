@@ -9,7 +9,13 @@
 </head>
 
 <body>
-
+    <main>
+        <form action="">
+            <input type="text" name="" placeholder="Inserisci il tuo paragrafo">
+            <input type="text" name="" placeholder="Inserisci parola da censurare">
+            <button>Send</button>
+        </form>
+    </main>
 </body>
 
 </html>
