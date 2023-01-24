@@ -10,7 +10,7 @@
 
 <body>
     <main>
-        <form action="censure.php">
+        <form action="censure.php" method="GET">
             <input type="text" name="paragraph" placeholder="Inserisci il tuo paragrafo">
             <input type="text" name="censureWord" placeholder="Inserisci parola da censurare">
             <button>Send</button>
